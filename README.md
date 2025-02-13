@@ -12,7 +12,7 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 - [License](./LICENSE)
 
 ## Demo
-You can play the game [here](#demo).
+You can play the game [here](https://tic-tac-toe-game-eldodev.vercel.app/)
 
 ## Features
 - **Interactive gameplay**: Players take turns.
